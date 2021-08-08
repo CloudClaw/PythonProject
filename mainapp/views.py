@@ -1,3 +1,4 @@
+import logging
 from django.contrib.contenttypes.models import ContentType
 from django.db import transaction
 from django.shortcuts import render
@@ -11,6 +12,7 @@ from .mixins import CategoryDetailMixin, CartMixin
 from .forms import OrderForm, LoginForm, RegistrationForm
 from .utils import recalc_cart
 
+logger = logging.getLogger(__name__)
 
 class BaseView(CartMixin, View):
 

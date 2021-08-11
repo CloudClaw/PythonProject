@@ -34,3 +34,43 @@
 2021-08-08 19:22:07,306 django.utils.autoreload INFO     D:\Front-end\pythonProject\MyFirstShop\mainapp\views.py changed, reloading.
 2021-08-08 19:22:07,310 asyncio      DEBUG    Using proactor: IocpProactor
 2021-08-08 19:22:08,049 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-08 19:22:44,248 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-08 19:22:44,329 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:23:10,156 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:23:24,439 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:23:24,439 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:23:25,673 django.request WARNING  Not Found: /favicon.ico
+2021-08-11 09:23:25,673 django.request WARNING  Not Found: /favicon.ico
+2021-08-11 09:23:32,571 django.request WARNING  Not Found: /cart/css/shop-homepage.css
+2021-08-11 09:23:32,571 django.request WARNING  Not Found: /cart/css/shop-homepage.css
+2021-08-11 09:23:34,125 django.request WARNING  Not Found: /cart/css/shop-homepage.css
+2021-08-11 09:23:34,125 django.request WARNING  Not Found: /cart/css/shop-homepage.css
+2021-08-11 09:23:35,687 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:23:35,687 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:23:41,588 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:23:41,685 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:24:48,066 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:24:50,045 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:24:50,133 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:25:04,752 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:25:05,692 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:25:05,692 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:25:14,037 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:25:14,037 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:25:35,523 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:25:35,609 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:27:03,496 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:27:04,602 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:27:04,602 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 09:31:34,149 django.utils.autoreload INFO     D:\Front-end\pythonProject\MyFirstShop\mainapp\models.py changed, reloading.
+2021-08-11 09:31:34,151 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:31:35,160 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:31:48,680 django.utils.autoreload INFO     D:\Front-end\pythonProject\MyFirstShop\mainapp\models.py changed, reloading.
+2021-08-11 09:31:48,682 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:31:49,571 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:32:01,109 django.utils.autoreload INFO     D:\Front-end\pythonProject\MyFirstShop\mainapp\models.py changed, reloading.
+2021-08-11 09:32:01,113 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:32:01,931 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 09:52:06,923 django.utils.autoreload INFO     D:\Front-end\pythonProject\MyFirstShop\mainapp\models.py changed, reloading.
+2021-08-11 09:52:06,924 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 09:52:08,310 django.utils.autoreload INFO     Watching for file changes with StatReloader

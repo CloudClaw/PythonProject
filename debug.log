@@ -74,3 +74,26 @@
 2021-08-11 09:52:06,923 django.utils.autoreload INFO     D:\Front-end\pythonProject\MyFirstShop\mainapp\models.py changed, reloading.
 2021-08-11 09:52:06,924 asyncio      DEBUG    Using proactor: IocpProactor
 2021-08-11 09:52:08,310 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 18:46:31,904 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 18:46:32,546 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 18:49:35,889 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-11 18:49:38,354 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 18:49:38,354 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 18:50:39,372 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 18:50:39,372 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 18:50:42,928 django.request WARNING  Not Found: /category/smartphones/css/shop-homepage.css
+2021-08-11 18:50:42,928 django.request WARNING  Not Found: /category/smartphones/css/shop-homepage.css
+2021-08-11 18:50:42,972 django.request WARNING  Not Found: /category/media/bg-1.png
+2021-08-11 18:50:42,972 django.request WARNING  Not Found: /category/media/bg-1.png
+2021-08-11 18:50:44,516 django.request WARNING  Not Found: /category/notebooks/css/shop-homepage.css
+2021-08-11 18:50:44,516 django.request WARNING  Not Found: /category/notebooks/css/shop-homepage.css
+2021-08-11 18:50:44,563 django.request WARNING  Not Found: /category/media/bg-1.png
+2021-08-11 18:50:44,563 django.request WARNING  Not Found: /category/media/bg-1.png
+2021-08-11 18:50:46,269 django.request WARNING  Not Found: /category/smartphones/css/shop-homepage.css
+2021-08-11 18:50:46,269 django.request WARNING  Not Found: /category/smartphones/css/shop-homepage.css
+2021-08-11 18:50:46,331 django.request WARNING  Not Found: /category/media/bg-1.png
+2021-08-11 18:50:46,331 django.request WARNING  Not Found: /category/media/bg-1.png
+2021-08-11 18:50:47,528 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 18:50:47,528 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-11 18:50:54,693 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-11 18:50:54,781 asyncio      DEBUG    Using proactor: IocpProactor

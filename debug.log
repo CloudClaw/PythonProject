@@ -97,3 +97,16 @@
 2021-08-11 18:50:47,528 django.request WARNING  Not Found: /css/shop-homepage.css
 2021-08-11 18:50:54,693 asyncio      DEBUG    Using proactor: IocpProactor
 2021-08-11 18:50:54,781 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-12 11:26:36,946 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-12 11:27:18,578 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-12 11:27:30,545 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-12 11:27:30,627 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-12 11:27:43,638 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-08-12 11:27:45,430 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-12 11:27:45,430 django.request WARNING  Not Found: /css/shop-homepage.css
+2021-08-12 11:27:47,239 django.request WARNING  Not Found: /favicon.ico
+2021-08-12 11:27:47,239 django.request WARNING  Not Found: /favicon.ico
+2021-08-12 11:27:52,443 django.request WARNING  Not Found: /profile/css/shop-homepage.css
+2021-08-12 11:27:52,443 django.request WARNING  Not Found: /profile/css/shop-homepage.css
+2021-08-12 11:28:02,985 asyncio      DEBUG    Using proactor: IocpProactor
+2021-08-12 11:28:03,108 asyncio      DEBUG    Using proactor: IocpProactor
